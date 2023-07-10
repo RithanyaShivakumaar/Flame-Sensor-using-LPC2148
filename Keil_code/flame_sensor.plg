@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\@ ASE\SEM III\FLAME SENSOR\Keil_code\flame_sensor.uvproj
+Project File Date:  07/09/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling flame_sensor.c...
+linking...
+Program Size: Code=1128 RO-data=32 RW-data=4 ZI-data=1260  
+"flame_sensor.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1128 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+"flame_sensor.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1128 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+"flame_sensor.axf" - 0 Error(s), 0 Warning(s).
